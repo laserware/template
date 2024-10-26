@@ -12,6 +12,6 @@ const baseConfigs = getBaseConfigs({
 export default [
   ...baseConfigs,
   {
-    ignores: ["eslint.config.mjs", "example/**", "**/*.snap"],
+    ignores: ["eslint.config.mjs"],
   },
 ];
