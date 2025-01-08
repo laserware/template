@@ -8,6 +8,7 @@
     "url": "git+https://github.com/laserware/<repo>.git",
     "type": "git"
   },
+  "homepage": "",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
